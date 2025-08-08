@@ -91,7 +91,7 @@ if s:t_Co >= 256
   hi CursorLine             ctermfg=NONE ctermbg=NONE cterm=underline          guifg=NONE    guibg=NONE gui=underline
   hi CursorColumn           ctermfg=NONE ctermbg=NONE cterm=bold guifg=NONE    guibg=NONE    gui=bold                " need improve maybe
   hi CursorLineNr           ctermfg=104  ctermbg=235  cterm=NONE guifg=#8787df guibg=#262626 gui=NONE
-	hi ColorColumn            ctermfg=225  ctermbg=235  cterm=NONE guifg=#ffdfff guibg=#262626 gui=NONE
+	hi ColorColumn            ctermfg=225  ctermbg=240  cterm=NONE guifg=#ffdfff guibg=#585858 gui=NONE
 	hi NonText                ctermfg=212  ctermbg=235  cterm=NONE guifg=#ff87df guibg=#262626 gui=NONE
 	hi Pmenu                  ctermbg=242  ctermfg=225  cterm=NONE guibg=#666666 guifg=#ffdfff gui=NONE
 	hi PmenuSel               ctermbg=242  ctermfg=153  cterm=NONE guibg=#666666 guifg=#afd7ff gui=NONE
